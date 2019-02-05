@@ -50,13 +50,13 @@
         "company":"Ansys Inc.",
         "title":"Software Engineer",
         "years":"Oct 2018 - Present",
-        "description":"Provide usable UI based on AngularJS and Bootstrap. Build API and workflow for additive print simulation."
+        "description":"Provide usable UI based on AngularJS and Bootstrap, and build API and workflow for additive print simulation."
       },
       {
         "company":"OpenEdge",
         "title":"Software Developer Intern",
         "years":"May 2018 - August 2018",
-        "description":"Analyze the routine to figure out the potential time-consuming routine in web service system. Improve the response time with different method and refactor code to reduce reliance on database."
+        "description":"Analyze the routine to figure out the potential time-consuming routine in web service system, and improve the response time with different method and refactor code to reduce reliance on database."
       }
     ],
     "skills":[
@@ -99,28 +99,28 @@
         "url":"https://roia2529.github.io/raytracing.html"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Visualization of Data Science",
+        "category":"JavaScript, D3, HTML, CSS, Python",
         "image":"visData.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://roia2529.github.io/visfordata.html"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Pacman and Artificial Intelligence",
+        "category":"Python, A*, Reinforcement Learning",
         "image":"ai.png",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://roia2529.github.io/aipage.html"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Correlation between hospital charges and local poverty rates",
+        "category":"Data Mining, Python, Java",
         "image":"dataMining.png",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://roia2529.github.io/datamining.html"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Implementation of Real-time Object Recognition System by Integrating SURF and BRISK for Home-Service Robot",
+        "category":"Computer Vision, C++, SLAM, AI",
         "image":"May2.png",
-        "url":"http://www.smirkspace.com"
+        "url":"https://roia2529.github.io/robotvision.html"
       }
     ]
   }
