@@ -7,11 +7,9 @@ class About extends Component {
       var name = this.props.data.name;
       var profilepic= "images/profilepic.JPG";
       var bio = this.props.data.bio;
-      var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
-      var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
+      var linkedIn = this.props.data.linkedin;
     }
 
     return (
@@ -21,7 +19,7 @@ class About extends Component {
             <img className="profile-pic"  src={profilepic} alt="A.L Profile Pic" />
          </div>
          <div className="nine columns main-col">
-            <h2>Welcome to contact me by linkedIn and e-mail!</h2>
+            <h2>Welcome to contact me by linkedIn or e-mail!</h2>
 
             <p>{bio}</p>
             <div className="row">
@@ -29,9 +27,8 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name}</span><br />
-						   <span>{resumeDownload}</span><br />
-                     <span>{email}</span>
-					   </p>
+						   <span href={linkedIn}>{linkedIn}</span><br />
+                     <span>{email}</span></p>
                </div>
                <div className="columns download">
                   <p>

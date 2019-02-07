@@ -15,7 +15,8 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://roia2529.github.io/aleeWebsite/",
-    "resumedownload":"https://www.linkedin.com/in/hsuan-lee-amanda/",
+    "resumedownload":"https://drive.google.com/file/d/1vgJWzuFXgJNGXDULYAm4MuoVT4yVL7wQ/view?usp=sharing",
+    "linkedin":"https://www.linkedin.com/in/hsuan-lee-amanda/",
     "social":[
       {
         "name":"linkedin",
@@ -30,7 +31,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of Utah",
@@ -50,13 +51,13 @@
         "company":"Ansys Inc.",
         "title":"Software Engineer",
         "years":"Oct 2018 - Present",
-        "description":"Provide usable UI based on AngularJS and Bootstrap. Build API and workflow for additive print simulation."
+        "description":"Provide usable UI based on AngularJS and Bootstrap, and build API and workflow for additive print simulation."
       },
       {
         "company":"OpenEdge",
         "title":"Software Developer Intern",
         "years":"May 2018 - August 2018",
-        "description":"Analyze the routine to figure out the potential time-consuming routine in web service system. Improve the response time with different method and refactor code to reduce reliance on database."
+        "description":"Analyze the routine to figure out the potential time-consuming routine in web service system, and improve the response time with different method and refactor code to reduce reliance on database."
       }
     ],
     "skills":[
