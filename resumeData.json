@@ -10,12 +10,12 @@
     "phone": "555-555-5555",
     "address":{
       "street":"(Your Street)",
-      "city":"Salt Lake City",
+      "city":"Seattle",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://roia2529.github.io/aleeWebsite/",
-    "resumedownload":"https://drive.google.com/file/d/1vgJWzuFXgJNGXDULYAm4MuoVT4yVL7wQ/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1nvETjwM0RCXyCTK4OE4GVH0UaNCdWCLy/view?usp=sharing",
     "linkedin":"https://www.linkedin.com/in/hsuan-lee-amanda/",
     "social":[
       {
@@ -48,9 +48,15 @@
     ],
     "work":[
       {
+        "company":"Amazon",
+        "title":"Software Engineer",
+        "years":"June 2020 - Present",
+        "description":""
+      },
+      {
         "company":"Ansys Inc.",
         "title":"Software Engineer",
-        "years":"Oct 2018 - Present",
+        "years":"Oct 2018 - May 2020",
         "description":"Provide usable UI based on AngularJS and Bootstrap, and build API and workflow for additive print simulation."
       },
       {
